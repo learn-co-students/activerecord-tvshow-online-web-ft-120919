@@ -22,7 +22,7 @@ method:
 ```ruby
 <class name>.sum(:<column_name>)
 ```
-
+hey
 We can query our database based on certain conditions using the `#where` method.
 
 Let's say we have a `Song` class and table and each song has a `number_of_stars`
